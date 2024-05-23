@@ -1,16 +1,22 @@
-## Hi there 👋
+## About Me
+I am Jon Carl Ubaldo, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
-<!--
-**CarlUbaldo/CarlUbaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+**BS Information Technology**  
+New Era University  
+2023-Present
 
-Here are some ideas to get you started:
+## Certifications
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://www.oracle.com/education/)  
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://www.oracle.com/education/)  
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://www.oracle.com/education/)  
+- [SQL and Relational Databases 101](https://www.coursera.org/learn/relational-databases)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill Sets
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Contact Me
+- **LinkedIn:** www.linkedin.com/in/carl-ubaldo
+- **Email:** jcubaldo22@gmail.com
